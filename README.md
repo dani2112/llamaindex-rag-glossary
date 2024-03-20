@@ -1,7 +1,7 @@
 # LlamaIndex and Query Rewriting Demo – Boosting RAG Performance through Glossary Integration
 A demo showcasing how to boost RAG performance by using additional context like a glossary.
 
-Read the accompanying blog post [here](https://example.com/blog/boosting-rag-performance-through-glossary-integration).
+Read the accompanying blog post [here](https://medium.com/@daniel-klitzke/boosting-rag-performance-through-glossary-integration-a-llamaindex-hands-on-tutorial-d8a4bd568345).
 
 Contents of the repository:
 - [basic_rag.ipynb](basic_rag.ipynb): A basic RAG example without optimizations
